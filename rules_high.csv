@@ -1,0 +1,2 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+frozenset({'lbxsgl'}),frozenset({'lbxsossi'}),0.24889296075736753,0.9120476408612002,0.24858757062146894,0.9987730061349694,1.0950886350540625,0.021585332935752627,71.68117269812878,0.11560523727630884
